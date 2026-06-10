@@ -1,2 +1,3 @@
-# odin-recipes
-Learning project from "The Odin Project"
+# Рецепты Одина
+
+Данный проект предназначен для закрепления фундаментальных знаний по теме HTML.
